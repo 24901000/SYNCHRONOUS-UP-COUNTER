@@ -102,9 +102,12 @@ Program for flipflops and verify its truth table in quartus using Verilog progra
 ![Screenshot (127)](https://github.com/user-attachments/assets/473e5e9e-d755-4531-9f8d-df5d8274642d)
 
 **TIMING DIAGRAM FOR IP COUNTER**
-![Screenshot (128)](https://github.com/user-attachments/assets/acf65e46-d343-4fbe-adc6-1721aa8beb79)
+
+![Screenshot (146)](https://github.com/user-attachments/assets/784381f7-d236-4aeb-b6be-6e249d09d1ba)
+
 
 **TRUTH TABLE**
+
 ![Screenshot (130)](https://github.com/user-attachments/assets/9a4eada0-64d7-47a1-b2c1-81a133ad5f26)
 
 **RESULTS**
